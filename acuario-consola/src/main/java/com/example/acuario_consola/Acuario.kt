@@ -46,3 +46,5 @@ class TanqueTorre(override var alto: Int, var diametro: Int) :
     override var agua = volumen * 0.8
     override val forma = "cilindro"
 }
+
+// Herencia y subclase TanqueTorre implementadas
