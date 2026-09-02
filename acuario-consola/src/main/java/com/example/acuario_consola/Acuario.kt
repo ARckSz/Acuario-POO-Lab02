@@ -1,4 +1,4 @@
-package acuario
+package com.example.acuario_consola
 
 import kotlin.math.PI
 
